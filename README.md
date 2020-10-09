@@ -1,2 +1,6 @@
 # PalindromeTuring
-A C program that shows palindrome string simulation on a turing machine
+
+## Simulation of how Turing Machine accepts or rejects Palindrome strings in C
+
+### Steps to run:
+1
